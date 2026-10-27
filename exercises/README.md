@@ -25,3 +25,8 @@
 | macros                 | §19.6               |
 | clippy                 | §21.4               |
 | conversions            | n/a                 |
+
+
+git add exercises
+git commit -m "Complete Rustlings exercises"
+git push origin main
