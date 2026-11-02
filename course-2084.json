@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-shelly20060407",
-  "commit": "9d070734e9a8300af7a208ad5fa0ab2b654dc76e",
-  "score": 74,
+  "commit": "eb12cf757d35b790ee8e946f69a1988a0a0674e8",
+  "score": 77,
   "totalScore": 110,
   "exercises": [
     {
@@ -569,23 +569,23 @@
     {
       "name": "threads1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "threads2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "threads3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "macros1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "shelly20060407",
-  "runId": "40989764999",
+  "runId": "41372662572",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
